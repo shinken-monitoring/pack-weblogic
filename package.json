@@ -3,13 +3,13 @@
 	"types": ["pack"],
 	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-weblogic",
-	"author": "Jean Gabes",
-	"description": "",
+	"author": "Forlot Romain",
+	"description": "Oracle Weblogic server checks",
 	"contributors": [
-	  {
-		"name": "Jean Gabes",
-		"email": "naparuba@gmail.com"
-	  },
+          {
+                "name": "Forlot Romain",
+                "email": "rforlot@yahoo.com"
+          },
 	  {
 		"name": "Imrane Dessai",
 		"email": "dessai.imrane@gmail.com"
@@ -18,6 +18,8 @@
 	"repository": "https://github.com/shinken-monitoring/pack-weblogic",
 	"keywords": [
 	  "pack",
+	  "oracle",
+	  "weblogic"
 	  
 	],
 	"dependencies": {
