@@ -1,7 +1,7 @@
 {
 	"name": "weblogic",
 	"types": ["pack"],
-	"version": "1.0",
+	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-weblogic",
 	"author": "Forlot Romain",
 	"description": "Oracle Weblogic server checks",
@@ -16,7 +16,6 @@
 	  "pack",
 	  "oracle",
 	  "weblogic"
-	  
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
