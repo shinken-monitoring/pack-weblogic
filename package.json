@@ -1,7 +1,7 @@
 {
 	"name": "weblogic",
 	"types": ["pack"],
-	"version": "1.4",
+	"version": "1.0",
 	"homepage": "https://github.com/shinken-monitoring/pack-weblogic",
 	"author": "Forlot Romain",
 	"description": "Oracle Weblogic server checks",
@@ -9,11 +9,7 @@
           {
                 "name": "Forlot Romain",
                 "email": "rforlot@yahoo.com"
-          },
-	  {
-		"name": "Imrane Dessai",
-		"email": "dessai.imrane@gmail.com"
-	  } 
+          }
 	],
 	"repository": "https://github.com/shinken-monitoring/pack-weblogic",
 	"keywords": [
